@@ -128,9 +128,7 @@ The project is being developed in stages, beginning with environment setup, lite
 
 Developed as an independent research-oriented Data Science project focusing on multilingual NLP, explainable AI, and Generative AI.
 
-## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
